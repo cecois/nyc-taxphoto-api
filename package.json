@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "oai-pmh": "^2.0.2"
+  }
+}
